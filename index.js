@@ -1,5 +1,3 @@
-import _ from "lodash";
+import showSmth from './src/index.js';
 
-console.log('Hello, Hexlet!');
-
-console.log(_.last(['one', 'two']));
+showSmth();
